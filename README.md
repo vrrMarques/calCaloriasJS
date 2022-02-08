@@ -2,7 +2,7 @@
 
 # como usar ?
 
-insira os dados pedidos pela aplicação a mesma retornará:
+insira os dados pedidos pela aplicação e a mesma retornará:
 
 -As calorias médias que seu corpo nescessita
 -Calorias para manter peso
